@@ -1,0 +1,2 @@
+# .github
+Marionettejs organization profile.
