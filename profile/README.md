@@ -7,7 +7,7 @@
 
 Marionette gives your interface a place to live: views for rendering, regions for composing screens, and lifecycle management for cleaning up when the work is done.
 
-[Website](https://marionettejs.com/) · [Documentation](https://marionettejs.com/docs/current/) · [Backbone.Marionette](https://github.com/marionettejs/backbone.marionette)
+[Website](https://marionettejs.com/) · [Documentation](https://marionettejs.com/docs/current/) · [GitHub](https://github.com/marionettejs/marionette)
 
 ### Around the project
 
