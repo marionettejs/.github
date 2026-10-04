@@ -11,4 +11,4 @@ Marionette gives your interface a place to live: Views render content, Regions c
 
 ### Around the project
 
-Follow [Marionettejs on Twitter](https://twitter.com/marionettejs), support the project on [Patreon](https://www.patreon.com/marionettejs), or visit the [shop](https://store.marionettejs.com/).
+Follow [Marionettejs on Twitter](https://twitter.com/marionettejs), support the project through [GitHub Sponsors](https://github.com/sponsors/paulfalgout), or visit the [shop](https://store.marionettejs.com/).
